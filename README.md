@@ -11,3 +11,12 @@
 - fixed bugs
 - debated on many fonts
 - polished layouts
+
+1 hr 52 mins - 3 hr 6 mins:
+- fixed bugs
+- changed layout
+- made changes is html
+- made changes in css
+- experimented a lot of colour pallete
+- added animations
+- polished the whole code
